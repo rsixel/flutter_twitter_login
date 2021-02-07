@@ -16,8 +16,8 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
 
-flutter:
-  plugin:
-    androidPackage: com.roughike.fluttertwitterlogin
-    pluginClass: TwitterLoginPlugin
+# flutter:
+#   plugin:
+#     androidPackage: com.roughike.flutter_twitter_login
+#     pluginClass: FlutterTwitterLoginPlugin
 
