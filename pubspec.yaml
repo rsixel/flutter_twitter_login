@@ -18,6 +18,6 @@ dev_dependencies:
 
 flutter:
   plugin:
-    androidPackage: com.roughike.fluttertwitterlogin.fluttertwitterlogin
+    androidPackage: com.roughike.fluttertwitterlogin
     pluginClass: TwitterLoginPlugin
 
